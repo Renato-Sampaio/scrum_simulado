@@ -1,0 +1,856 @@
+[
+  {
+      "question": "O Gerente de Projetos interrompe um Sprint adicionando um item para ser desenvolvido no Sprint corrente. Por que isso seria um problema para um Time? ",
+     "correct": "d",
+      "options": {
+       "a": "Isso não é um problema, pois o Time pode fazer hora extra e garantir a entrega.",
+       "b": "Porque o Time se compromete apenas com o que pode entregar.",
+       "c": "Porque o ScrumMaster deve proteger o Time",
+       "d": "Porque o PO e o Time estabelecem uma Meta e esta deve ser atendida."
+      },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum"
+   },
+   {
+     "question": "Qual seria a principal razão para o Scrum Master estar presente num Daily Scrum?",
+     "options": {
+       "a": "Ele não precisa estar no Daily Scrum, ele tem que garantir que o Daily Scrum aconteça.",
+       "b": "Reportar o progresso do Sprint e do projeto para o PO ou GP.",
+       "c": "Remover os impedimentos, criando um Backlog de Impedimentos.",
+       "d": "Rastrear o progresso do projeto e do Sprint."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "É obrigatório para o Time entregar um Incremento do Produto ao final de cada Sprint",
+     "options": {
+       "a": "FALSO",
+       "b": "VERDADEIRO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "Qual seria o resultado mais provável se o Scrum Master não realiza suas atividades de acordo",
+     "options": {
+       "a": "Qual seria o resultado mais provável se o Scrum Master não realiza suas atividades de acordo",
+       "b": "O Time se sentirá muito pressionado ao final de cada Sprint.",
+       "c": "As retrospectivas poderão ser inadequadas.",
+       "d": "O Time poderá não estar se desenvolvendo."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "d"
+   },
+   {
+     "question": "O que um ScrumMaster deve fazer quando o PO não desempenha seu papel corretamente?",
+     "options": {
+       "a": "Solicitar a mudança de Product Owner.",
+       "b": "Ajudar o Time respondendo perguntas.",
+       "c": "Ajudar o Product Owner.",
+       "d": "Atuar como um Product Owner."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "c"
+   },
+   {
+     "question": "De que forma o PO deve priorizar os itens de um Product Backlog?",
+     "options": {
+       "a": "Da maneira que ele achar mais adequada.",
+       "b": "Depende do PO.",
+       "c": "Itens de mais valor monetário devem estar mais ao fundo.",
+       "d": "Itens de menos valor devem estar mais ao topo."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Qual opção abaixo descreve melhor o tipo de processo que é o Scrum?",
+     "options": {
+       "a": "Processo definido.",
+       "b": "Processo empírico.",
+       "c": "PDCA.",
+       "d": "Processo simples."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "Quem é responsável por gerenciar como o Time irá realizar seu trabalho durante um Sprint?",
+     "options": {
+       "a": "O Gerente de Projetos",
+       "b": "O Time",
+       "c": "O ScrumMaster",
+       "d": "O Líder Tecnico"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "Que atividade o Time deve realizar no primeiro Sprint de um projeto? ",
+     "options": {
+       "a": "Desenvolvimento de um incremento de produto.",
+       "b": "Sprint Backlog.",
+       "c": "Sprint Zero",
+       "d": "Product Backlog."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Qual o papel dos gestores no Scrum? ",
+     "options": {
+       "a": "Controlar o orçamento e contratação. ",
+       "b": "Ajudar na gestão do produto e de pessoas.",
+       "c": "Dar suporte ao Time Scrum, ajudando o PO a priorizar, o Scrum Master a remover impedimentos e o Time de Desenvolvimento a ter mais autonomia para se auto-organizar.",
+       "d": "Nenhum."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "c"
+   },
+   {
+     "question": "Se durante um Sprint o ScrumMaster identifica que o time está além de sua capacidade, o que ele deve fazer? ",
+     "options": {
+       "a": "Conversar com o Time.",
+       "b": "Negociar com o Product Owner e opcionalmente cancelar o Sprint.",
+       "c": "Entender o porquê da falta de capacidade e treinar o Time.",
+       "d": "Facilitar uma negociação entre PO e Time."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "d"
+   },
+   {
+     "question": "Qual o timebox de um Daily Scrum? ",
+     "options": {
+       "a": "Depende do tamanho do Sprint.",
+       "b": "15 minutos.",
+       "c": "Para Sprints de 2 semanas, 15 minutos.",
+       "d": "Para Sprint de 1 semana, menos de 15 minutos."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "No Scrum, quem é o responsável por criar o cronograma de entregas do produto? ",
+     "options": {
+       "a": "Gerente de Projetos.",
+       "b": "Scrum Master.",
+       "c": "Product Owner.",
+       "d": "Time."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "c"
+   },
+   {
+     "question": "Para que serve a DoD (Definition of Done)? Marque todas que se aplicam. ",
+     "options": {
+       "a": "Para o time do projeto saber quando algo está pronto para ser desenvolvido.",
+       "b": "Para capturar problemas de qualidade de forma visual.",
+       "c": "Para alinhar entre todos o significado de trabalho potencialmente entregável.",
+       "d": "Para que o PO e o Time não discutam muito."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "c"
+   },
+   {
+     "question": "Qual papel no Scrum é responsável por garantir a qualidade no processo de desenvolvimento?",
+     "options": {
+       "a": "O Time de Desenvolvimento.",
+       "b": "O time de testes.",
+       "c": "O Product Owner.",
+       "d": "O ScrumMaster."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Qual das alternativas abaixo é a definição correta de Sprint Backlog? ",
+     "options": {
+       "a": "Um subconjunto do Product Backlog.",
+       "b": "A velocidade do Time em um Sprint.",
+       "c": "O conjunto de tarefas que o Time irá implementar durante o Sprint.",
+       "d": "Um conjunto pequeno de histórias de usuário."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "c"
+   },
+   {
+     "question": "Durante o Sprint Review algumas histórias não foram aceitas pelo Product Owner. O que o Time deve fazer com essas histórias? ",
+     "options": {
+       "a": "Adicioná-las no próximo Sprint.",
+       "b": "Adicioná-las ao próximo Sprint Backlog.",
+       "c": "Colocá-las no Product Backlog.",
+       "d": "Resolver os bugs imediatamente."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "c"
+   },
+   {
+     "question": "Qual das opções abaixo melhor descreve a atuação de um Product Owner? ",
+     "options": {
+       "a": "Escreve as user stories.",
+       "b": "Expert no domínio do produto.",
+       "c": "Prioriza o PBL considerando os riscos apenas.",
+       "d": "Expert em Lean, pois maximiza a produtividade eliminando desperdício."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "Qual dos papéis abaixo é responsável por rastrear o progresso de um Sprint? ",
+     "options": {
+       "a": "Scrum Master",
+       "b": "Product Owner",
+       "c": "Time",
+       "d": "Usuário cliente"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "c"
+   },
+   {
+     "question": "Os clientes e os stakeholders do projeto têm um papel fundamental no projeto. Quais abaixo NÃO são papéis do Scrum? ",
+     "options": {
+       "a": "Stakeholder",
+       "b": "Clientes",
+       "c": "Product Owner",
+       "d": "Time de Desenvolvimento",
+       "e": "Scrum Master",
+       "f": "Gerente de Projetos"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "f"
+   },
+   {
+     "question": " Quando se utiliza Scrum em um projeto, quem é o responsável por garantir que as regras e práticas estão sendo aplicadas?",
+     "options": {
+       "a": "Todos.",
+       "b": "O Scrum Master.",
+       "c": "O Gerente de Projetos.",
+       "d": "O Time."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "Em um projeto com Scrum, quem é o responsável por desenvolver o produto? ",
+     "options": {
+       "a": "Time de Desenvolvimento.",
+       "b": "Time Scrum",
+       "c": "Product Owner e Time.",
+       "d": "Scrum Master e Product Owner"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Quem é o principal responsável por garantir que o Time esteja se desenvolvendo? ",
+     "options": {
+       "a": "Todos",
+       "b": "O Product Owner",
+       "c": "O ScrumMaster",
+       "d": "O Time"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "c"
+   },
+   {
+     "question": "Em quais cerimônias (ou reuniões) o ScrumMaster deve atuar como um facilitador? ",
+     "options": {
+       "a": "Todas as cerimônias.",
+       "b": "Sprint Planning, Retrospectiva e Daily Scrum.",
+       "c": "Refinamento do Backlog.",
+       "d": "Sprint Planning e Daily Scrum."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Durante o Sprint o Product Owner encontra algo mais prioritário no Product Backlog. O que ele deve fazer? ",
+     "options": {
+       "a": "Inserir o item de maior prioridade no Product Backlog.",
+       "b": "Negociar com o Time se eles podem implementar nesse Sprint.",
+       "c": "Mudar as prioridades do Product Backlog.",
+       "d": "Inserir o item de maior prioridade no Sprint Backlog."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "Selecione duas coisas que o Time NÃO faz durante um Sprint: ",
+     "options": {
+       "a": "Refina os PBIs para Sprints subsequentes.",
+       "b": "Determina a arquitetura/solução completa do produto.",
+       "c": "Desenvolve os PBIs de acordo com a DoD.",
+       "d": "Desenvolve um plano para o restante da release."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "Em qual das reuniões abaixo o Product Owner tem participação opcional, determinada pelo Time? ",
+     "options": {
+       "a": "Sprint Planning.",
+       "b": "Sprint Retrospective.",
+       "c": "Daily Scrum.",
+       "d": "Sprint Review."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "c"
+   },
+   {
+     "question": "Qual a definição de 'timebox'? ",
+     "options": {
+       "a": "Um intervalo de tempo predefinido.",
+       "b": "Um Sprint.",
+       "c": "Uma iteração de trabalho.",
+       "d": "Uma parte do tempo."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Quem deve estabelecer a Meta de um Sprint? ",
+     "options": {
+       "a": "O Time.",
+       "b": "O Scrum Master e o Time.",
+       "c": "O Gerente de Projetos.",
+       "d": "O Time e o PO."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "d"
+   },
+   {
+     "question": "Em sua opinião, qual opção abaixo melhor descreve o papel do ScrumMaster? ",
+     "options": {
+       "a": "É o maior expert em Scrum que existe no time do projeto.",
+       "b": "Facilita a atuação do Product Owner.",
+       "c": "Realiza o papel equivalente ao de um gerente de projetos.",
+       "d": "Desenvolve o produto com o time."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Quem deve estabelecer a Meta de um Sprint? ",
+     "options": {
+       "a": "O Time.",
+       "b": "O Scrum Master e o Time.",
+       "c": "O Gerente de Projetos.",
+       "d": "O Time e o PO."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "d"
+   },
+   {
+     "question": "Em sua opinião, qual opção abaixo melhor descreve o papel do ScrumMaster? ",
+     "options": {
+       "a": "É o maior expert em Scrum que existe no time do projeto.",
+       "b": "Facilita a atuação do Product Owner.",
+       "c": "Realiza o papel equivalente ao de um gerente de projetos.",
+       "d": "Desenvolve o produto com o time."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Qual valor no Manifesto Ágil é mais relacionado com estimativas e planejamento, no sentido de quando iremos entregar o produto? ",
+     "options": {
+       "a": "Resposta à mudanças sobre seguir um plano.",
+       "b": "Software funcionando sobre documentação compreensiva.",
+       "c": "Indivíduos e interações sobre processos e ferramentas.",
+       "d": "Colaboração com o cliente sobre negociação de contratos."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Qual o principal papel do ScrumMaster no Sprint Review? ",
+     "options": {
+       "a": "Garantir que o PO esteja dando seu feedback.",
+       "b": "Fazer a demo do produto.",
+       "c": "Fazer a demo do produto.",
+       "d": "Facilitar a cerimônia garantindo que o Time apresente as funcionalidades prontas."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "d"
+   },
+   {
+     "question": "Em qual situação abaixo um Sprint pode vir a ser cancelado e quem possui autoridade para cancelá-lo? ",
+     "options": {
+       "a": "Quando a Meta do Sprint não faz mais sentido. O Product Owner.",
+       "b": "Quando a Meta do Sprint faz sentido para o cliente. O Product Owner.",
+       "c": "Quando a Meta do Sprint não faz mais sentido. O Time.",
+       "d": "Quando o Sprint Backlog está muito extenso. O ScrumMaster."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Por que o Daily Scrum deve ocorrer no mesmo dia da semana, no mesmo local e horário? ",
+     "options": {
+       "a": "Para gerar ritmo, takt.",
+       "b": "Não é necessário ocorrer todo dia.",
+       "c": "Porque salas são difíceis de conseguir.",
+       "d": "Para não complicar a agenda de todos."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Qual a autoridade de um Product Owner? ",
+     "options": {
+       "a": "Sobre as estimativas dadas ao cliente.",
+       "b": "Sobre a priorização do Product Backlog, para gerar maior valor o quanto antes.",
+       "c": "Sobre o Time e ScrumMaster.",
+       "d": "Sobre o Sprint Backlog."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "Quando múltiplos Time trabalham na construção de um mesmo produto, cada um deve ter uma visão separada do Product Backlog. ",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+      
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "O Time de Desenvolvimento deve ser multidisciplinar. O que isso significa na prática? ",
+     "options": {
+       "a": "O Time deve ser composto por pessoas sêniores, pois juniores podem atrapalhar o progresso do Sprint.",
+       "b": "Que eles podem fazer qualquer coisa técnica.",
+       "c": "Que o Time deve ter entre 3 e 9 membros no máximo para terminar o projeto a tempo, dentro do custo e entregando o escopo.",
+       "d": "Que o Time deve ter as habilidades necessárias para entregar Incrementos de Produto ao final de cada Sprint."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "d"
+   },
+   {
+     "question": "Quais abaixo são características de um Scrum Master? ",
+     "options": {
+       "a": "Bom técnico, desenvolvedor de software e bom líder.",
+       "b": "Bom líder, facilitador de cerimônias e desenvolvedor de soluções.",
+       "c": "Bom coach, bom líder e excelente técnico.",
+       "d": "Pró-ativo, bom líder e conhecedor de técnicas de facilitação."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "d"
+   },
+   {
+     "question": "É obrigatório para o Time produzir um Incremento de Produto em produção ao final de cada Sprint. ",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "O que pode ser que aconteça caso o ScrumMaster e o Product Owner sejam a mesma pessoa? ",
+     "options": {
+       "a": "Foco maior nas entregas que em valor.",
+       "b": "Nada, pois as responsabilidades são claramente definidas.",
+       "c": "Maior produtividade.",
+       "d": "O ScrumMaster e o Product Owner não devem ser a mesma pessoa."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "d"
+   },
+   {
+     "question": "Quem cria a Definição de Pronto? ",
+     "options": {
+       "a": "O Time e o Product Owner.",
+       "b": "O Scrum Master.",
+       "c": "Todos.",
+       "d": "O Product Owner."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "d"
+   },
+   {
+     "question": "Em sua opinião, qual opção abaixo descreve melhor o papel do ScrumMaster? ",
+     "options": {
+       "a": "É o maior expert em Scrum que existe no time do projeto.",
+       "b": "Desenvolve o produto com o Time.",
+       "c": "Facilita a atuação do Product Owner.",
+       "d": "Realiza o papel equivalente ao de um gerente de projetos."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Quem é o responsável pelas entregas quando se utiliza Scrum? ",
+     "options": {
+       "a": "O ScrumMaster e o Time.",
+       "b": "O Time.",
+       "c": "O Product Owner.",
+       "d": "Todos."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "c"
+   },
+   {
+     "question": "Todos.",
+     "options": {
+       "a": "O ScrumMaster e o Time",
+       "b": "O Product Owner",
+       "c": "Todos",
+       "d": "O Time"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "d"
+   },
+   {
+     "question": "Quem deve ser o facilitador da Retrospectiva do Sprint? ",
+     "options": {
+       "a": "Product Owner",
+       "b": "O Time",
+       "c": "O ScrumMaster",
+       "d": "Um Agile ou Scrum Coach"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "c"
+   },
+   {
+     "question": "Um conceito muito comum utilizado em estimativas chama-se Story Points (ou Pontos de História). O que os story points medem e qual sua dimensão? ",
+     "options": {
+       "a": "Medem o esforço em dias ideais.",
+       "b": "Medem esforço e não tem dimensão.",
+       "c": "Nenhuma das alternativas.",
+       "d": "Nenhuma das alternativas."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "Uma vez que o PO e o Time definem a Meta do Sprint, qual a autoridade do ScrumMaster? ",
+     "options": {
+       "a": "Nenhuma.",
+       "b": "Garantir que o processo esteja de acordo.",
+       "c": "Autoridade de um gerente.",
+       "d": "Sobre o Sprint Backlog."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "O propósito de um Sprint é produzir um Incremento de Produto. ",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Qual a pessoa responsável pela criação do Product Backlog? ",
+     "options": {
+       "a": "Time.",
+       "b": "Product Manager.",
+       "c": "Product Owner.",
+       "d": "ScrumMaster e PO."
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "c"
+   },
+   {
+     "question": "O Product Owner é um comitê responsável pelo gerenciamento do Backlog do Produto e por garantir o valor do trabalho realizado pelo Time Scrum. ",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "O Scrum Master é responsável por garantir que o Time Scrum esteja aderindo aos valores do Scrum, às práticas e às regras. Também ajuda o Time Scrum e a organização a adotarem o Scrum e treina e leva o Time Scrum a ser mais produtivo e a desenvolver produtos de maior qualidade.",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Quando uma equipe adota o Scrum, esta deve entregar software funcionando de 4 a 6 meses, dando preferência para períodos mais longos, pois facilita o planejamento das atividades.",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "O Dono do Produto não tem que ser uma única pessoa, mas pode ser um comitê ou pode ser uma responsabilidade compartilhada com vários indivíduos.",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "Para se inscrever nos exames das certificações Profissional Scrum Master NÃO é obrigatório ter participado de um treinamento oficial presencial.",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "O Dono do Produto determina quantos itens do Backlog do Produto o Time de Desenvolvimento precisa selecionar para uma Sprint.",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "O framework Scrum consiste em um conjunto formado por Times Scrum e seus papéis associados, Eventos com Duração Fixa (Time-Boxes), Artefatos e Regras.",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "O Scrum Master é uma posição de gerenciamento?",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+     "question": "Dentro do Time de Desenvolvimento, sempre haverá um líder de time, pois além de ser um processo natural, este líder pode ajudar a evoluir mais rápido os membros juniores do time.",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "b"
+   },
+   {
+     "question": "As práticas das equipes Scrum evoluem constantemente por meio da aplicação de lições aprendidas frequentes.",
+     "options": {
+       "a": "VERDADEIRO",
+       "b": "FALSO"
+     },
+     "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+     "correct": "a"
+   },
+   {
+    "question": "O Scrum Master é responsável por garantir que o Time Scrum esteja aderindo aos valores do Scrum, às práticas e às regras. Também ajuda o Time Scrum e a organização a adotarem o Scrum e treina e leva o Time Scrum a ser mais produtivo e a desenvolver produtos de maior qualidade. Verdadeiro",
+    "options": {
+      "a": "VERDADEIRO",
+      "b": "FALSO"
+    },
+    "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+    "correct": "a"
+  },
+  {
+   "question": "O que é correto afirmar sobre eventos Time Box no Scrum? ",
+   "options": {
+     "a": "Uma Reunião de Retrospectiva do Sprint é Time-boxed em 4 horas para um Sprint de um mês; Uma Reunião Diária é Time-boxed em 15 minutos; Um Sprint é Time-boxed de 1 a 6 semanas.",
+     "b": "Uma Reunião de Revisão do Sprint é Time-boxed em 6 horas para um Sprint de um mês; Uma Reunião de Retrospectiva do Sprint é Time-boxed em 8 horas para um Sprint de um mês. ",
+     "c": "Uma Reunião Diária é Time-boxed em 15 minutos; Uma Reunião de Revisão do Sprint é Time-boxed em 4 horas para um Sprint de um mês; Um Sprint é Time-boxed de 1 a 4 semanas. ",
+     "d": "Uma Sprint é Time-boxed de 1 a 6 semanas; Uma Reunião de Planejamento do Sprint é Time-boxed em 8 horas para um Sprint de um mês; Uma Reunião Diária é Time-boxed em 15 minutos. "
+   },
+   "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+   "correct": "c"
+ },
+{
+ "question": "O que abaixo não é um princípio no Scrum? ",
+ "options": {
+   "a": "Colaboração.",
+   "b": "Desenvolvimento Iterativo. ",
+   "c": "Priorização baseada em Valor. ",
+   "d": "Relatórios Refinados. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "d"
+},
+{
+ "question": "O que melhor descreve auto-organização ou Times auto-organizáveis? ",
+ "options": {
+   "a": " Ambiente inovador e criativo propício ao crescimento. ",
+   "b": "Motivação, que gera um nível de performance do Time aprimorado. ",
+   "c": "A necessidade de mudanças devido a requisitos pouco esclarecidos é minimizada. ",
+   "d": "Time buy-in e responsabilidade compartilhada.  "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "b"
+},
+{
+ "question": "O que abaixo não é um princípio no Scrum? ",
+ "options": {
+   "a": "Colaboração.",
+   "b": "Desenvolvimento Iterativo. ",
+   "c": "Priorização baseada em Valor. ",
+   "d": "Relatórios Refinados. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "d"
+},
+{
+ "question": "Qual abaixo acontece primeiro no Scrum?  ",
+ "options": {
+   "a": "Reunião de Planejamento da Sprint0 ou pré-jogo. ",
+   "b": "Reunião de Planejamento do Sprint.   ",
+   "c": "Reunião de Stakeholders.  ",
+   "d": "Reunião de Refinamento do Backlog do Produto.   "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "b"
+},
+{
+ "question": "O que não é um objetivo da Reunião de Retrospectiva da Sprint?  ",
+ "options": {
+   "a": "Identificar as coisas que o Time precisa começar a fazer. ",
+   "b": "Identificar os membros do Time que foram vitais para o sucesso do Sprint.  ",
+   "c": "Identificar as coisas que o Time precisa parar de fazer para processar os problemas e os gargalos.  ",
+   "d": "Identificar as coisas que o Time precisa continuar fazendo que possam servir como melhores práticas.  "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "b"
+},
+{
+ "question": "O Scrum é um framework ágil que visa reduzir os riscos de desenvolvimento em projetos de software. O que abaixo não contribui para a diminuição do risco no Scrum? ",
+ "options": {
+   "a": "Cada incremento do produto é verificado em relação as especificações que são esperadas no produto. ",
+   "b": "O Dono do Produto está envolvido em cada fase de desenvolvimento. ",
+   "c": "Os membros do Time Scrum recebem treinamento adequado de gerenciamento de riscos. ",
+   "d": "O processo de desenvolvimento ocorre em ciclos de trabalho de curta duração. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "c"
+},
+{
+ "question": "O que abaixo melhor representa a transparência no Scrum? ",
+ "options": {
+   "a": "Reunião de Retrospectiva do Sprint. ",
+   "b": "Estimar Tarefas. ",
+   "c": "Radiadores de Informações.",
+   "d": "Planning Poker. Resposta: C Radiadores de Informação são quadros físicos espalhados de forma explícita pelo ambiente onde o Time de Desenvolvimento está trabalhando e exibe informações atualizadas do projeto para todos na empresa. Por exemplo ele poderia conter a lista dos últimos bugs encontrados, ou as tarefas que estão sendo executadas no momento. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "c"
+},
+{
+ "question": "O que não é um princípio no Scrum? ",
+ "options": {
+   "a": "Colaboração. ",
+   "b": "Priorização baseada em Riscos. ",
+   "c": "Auto-organização. ",
+   "d": "Processos Empíricos. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "b"
+},
+{
+ "question": "Oque abaixo é uma característica marcante de um modelo clássico de gestão de projetos? ",
+ "options": {
+   "a": "Os membros do Time estão entusiasmados pois eles podem selecionar as tarefas em que querem trabalhar. ",
+   "b": "O tempo gasto com documentação para o projeto é consideravelmente reduzido . ",
+   "c": "A gerência certifica-se que há um ambiente agradável de trabalho para os colaboradores. ",
+   "d": "O Time precisa seguir um cronograma e trabalhar após o horário para entregar o que foi definido pela gerência. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "d"
+},
+{
+ "question": "O que abaixo não é um evento Time-Box? ",
+ "options": {
+   "a": "Revisão do Sprint. ",
+   "b": "Reunião de Planejamento da Sprint. ",
+   "c": "Scrum de Scrums. ",
+   "d": "Reunião Diária. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "c"
+},
+{
+ "question": "Entre um modelo clássico de gerenciamento de projetos e um modelo ágil, o que podemos afirmar? ",
+ "options": {
+   "a": "Em ambos, ocorre a entrega incremental. ",
+   "b": "Em ambos, os conceitos e os valores são alcançados. ",
+   "c": "Em ambos, os conceitos e as mudanças em requisitos são permitidos. ",
+   "d": "Em ambos, os conceitos e os requisitos são priorizados com base no valor. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "c"
+},
+{
+ "question": "Qual a Time-box da Reunião de Revisão da Sprint para um Sprint de 15 dias? ",
+ "options": {
+   "a": "2 horas. ",
+   "b": "1,5 horas. ",
+   "c": "3 horas. ",
+   "d": "4 horas. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "A"
+},
+{
+ "question": "Inspeção e Adaptação são pilares do Scrum. Qual evento abaixo melhor proporciona ao Time Inspecionar e Adaptar? ",
+ "options": {
+   "a": "Reunião de Planejamento do Sprint. ",
+   "b": "Reunião de Retrospectiva do Sprint. ",
+   "c": "Reunião Diária. ",
+   "d": "Reunião de Planejamento da Release. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "b"
+},
+{
+ "question": "Das opções abaixo, o que não representa o pilar “Transparência” do Scrum? ",
+ "options": {
+   "a": "Os Gráficos de Burndown podem ser visualizados somente pelo Time Scrum e pelo Scrum Master. ",
+   "b": "O Cronograma de Planejamento da Release pode ser coordenado por múltiplos Times Scrum. ",
+   "c": "O Backlog Priorizado do Produto com as História de Usuário priorizadas que pode ser visualizado interna ou externamente ao Time Scrum. ",
+   "d": "A Declaração da Visão do Projeto pode ser acessada por todos os stakeholders e pelo Time Scrum. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "a"
+},
+{
+ "question": "Qual a Time-box da Reunião de Revisão da Sprint para um Sprint de 15 dias? ",
+ "options": {
+   "a": "2 horas. ",
+   "b": "1,5 horas. ",
+   "c": "3 horas. ",
+   "d": "4 horas. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "A"
+},
+{
+ "question": "Inspeção e Adaptação são pilares do Scrum. Qual evento abaixo melhor proporciona ao Time Inspecionar e Adaptar? ",
+ "options": {
+   "a": "Reunião de Planejamento do Sprint. ",
+   "b": "Reunião de Retrospectiva do Sprint. ",
+   "c": "Reunião Diária. ",
+   "d": "Reunião de Planejamento da Release. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "b"
+},
+{
+ "question": "Das opções abaixo, o que não representa o pilar “Transparência” do Scrum? ",
+ "options": {
+   "a": "Os Gráficos de Burndown podem ser visualizados somente pelo Time Scrum e pelo Scrum Master. ",
+   "b": "O Cronograma de Planejamento da Release pode ser coordenado por múltiplos Times Scrum. ",
+   "c": "O Backlog Priorizado do Produto com as História de Usuário priorizadas que pode ser visualizado interna ou externamente ao Time Scrum. ",
+   "d": "A Declaração da Visão do Projeto pode ser acessada por todos os stakeholders e pelo Time Scrum. "
+ },
+ "ref": "https://www.alura.com.br/empresas/artigos/scrum",
+ "correct": "a"
+}
+
+]
