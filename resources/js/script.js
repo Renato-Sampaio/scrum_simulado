@@ -1,5 +1,5 @@
-const questionsVarName = 'simDetranQuestions'; // Nome da variável local que armazenará as questões
-const configVarName = 'simDetranConfig'; // Nome da variável de armazenamento local que armazenará as notas dos testes e demais necessidades
+const questionsVarName = 'simScrumQuestions'; // Nome da variável local que armazenará as questões
+const configVarName = 'simScrumConfig'; // Nome da variável de armazenamento local que armazenará as notas dos testes e demais necessidades
 const numQuestionsTest = 80; //Número de questões do teste
 const numQuestionsSuccess = 60; //Número de acertos para ser aprovado
 
